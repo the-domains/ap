@@ -1,7 +1,7 @@
 name: AP
 favicon: null
-layout_spectrum: 0.18421287089586258
-typography_spectrum: 0.054174538934603333
+layout_spectrum: 0.79523
+typography_spectrum: 0.74532
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#d8802f'
   brandStrength: 0.5
   lightness: 0.8501165767665952
-  saturation: 0.35755413165315986
+  saturation: 0.3125
   rhythmicContrast: 0.6375519626308233
 purpose: []
