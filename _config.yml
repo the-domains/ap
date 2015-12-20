@@ -2,6 +2,7 @@ name: AP
 favicon: null
 layout_spectrum: 0.79523
 typography_spectrum: 0.74532
+title: Alexander Proudfoot Blog
 cta:
   domain: null
   bucket: null
