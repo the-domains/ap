@@ -1,7 +1,7 @@
 name: AP
 favicon: null
 layout_spectrum: 0.56428
-typography_spectrum: 0.2921147
+typography_spectrum: 0.15688
 title: Alexander Proudfoot Blog
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#005d47'
-    - '#442578'
-    - '#d7812c'
-    - '#e7ba8c'
+    - '#c8b7bd'
+    - '#606f75'
+    - '#010209'
+    - '#3a3539'
+    - '#166268'
   brandStrength: 1
   lightness: 0
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
